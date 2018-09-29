@@ -1,1 +1,1 @@
-# go_rest_mongo
+# Build RESTful API in Go and MongoDB
